@@ -12,7 +12,7 @@ using Lucene.Net.Analysis.Standard;
 using Lucene.Net.Search;
 using Lucene.Net.QueryParsers;
 
-public partial class WildCard : System.Web.UI.Page
+public partial class how_to_query_with_or : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
